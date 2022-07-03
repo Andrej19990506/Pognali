@@ -5,10 +5,10 @@
 }
 @font-face {
     font-family: 'Blogger Sans';
-    src: url(/Font/bloggersans.css);
+    src: url(Font/bloggersans.css);
 }
 .header{
-    background-image: url(/img/globe-back-desktop\ \(1\).png);
+    background-image: url(img/globe-back-desktop\ \(1\).png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -230,7 +230,7 @@
     padding: 0%;
 }
 .about-main{
-    background-image: url(/img/background_about.png);
+    background-image: url(img/background_about.png);
     border-bottom-left-radius: 50px;
     border-bottom-right-radius: 50px;
     position: relative;
@@ -685,7 +685,7 @@ padding-bottom: 38px;
 }
 .contacts__phone::before{
     content: "";
-    background-image: url(/img/contacts_icon.png);
+    background-image: url(img/contacts_icon.png);
     display: inline-block;
     width: 90px;
     height: 90px;
@@ -699,7 +699,7 @@ padding-bottom: 38px;
 }
 .contacts__email::before {
     content: "";
-    background-image: url(/img/email_icon.png);
+    background-image: url(img/email_icon.png);
     display: inline-block;
     width: 90px;
     height: 90px;
@@ -741,7 +741,7 @@ padding-bottom: 38px;
 .address__geolocation::before{
     display: inline-block;
     content: "";
-        background-image: url(/img/map_mark.png);
+        background-image: url(img/map_mark.png);
         width: 90px;
         height: 90px;
         border-radius: 50px;
